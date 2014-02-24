@@ -9,7 +9,7 @@ Installation
 Add spree_minicart_ajax_update to your Gemfile:
 
 ```ruby
-gem 'spree_minicart_ajax_update'
+gem 'spree_minicart_ajax_update', :git => 'https://github.com/lhpaul/spree_minicart_ajax_update'
 ```
 
 Bundle your dependencies and run the installation generator:
